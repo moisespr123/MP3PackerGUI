@@ -8,6 +8,6 @@ Simply, the fastest, multithreaded, and simple GUI to recompress your CBR MP3 fi
 
 You need mp3packer copied to the location where you have this software.
 
-Written in Visual Basic .NET using Visual Studio 2017.
+Written in Visual Basic .NET using Visual Studio 2017 and 2019.
 
 Enjoy!
